@@ -46,3 +46,6 @@ for (i in 1:n){
 }
 # Save the array 
 save(sstmax_array,lon,lat,nlon,nlat,n,year,file="sst_annual_max.Rdata")
+
+## Nov 22
+##### I made some changes.
