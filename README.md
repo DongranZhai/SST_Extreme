@@ -1,1 +1,1 @@
-# SST_Bruno
+# SSTmax
